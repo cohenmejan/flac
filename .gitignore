@@ -6,6 +6,9 @@
 *.dll
 *.dylib
 *.exe
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 .deps
 .libs
 aclocal.m4
@@ -13,7 +16,6 @@ ar-lib
 autom4te.cache/
 compile
 config.guess
-config.h
 config.h.in
 config.log
 config.rpath

@@ -33,6 +33,7 @@ project "FLAC"
 		"HAVE_CONFIG_H",
     	"PACKAGE_VERSION=\"1.3.4\"",
 		"_CRT_SECURE_NO_DEPRECATE",
+		"FLAC__NO_DLL"
     }
 
     filter "configurations:Debug"
